@@ -383,7 +383,8 @@ PictureBoxSizeMode.Zoom
 
 permite ajustar la imagen manteniendo sus proporciones.
 
-<img width="1031" height="773" alt="image" src="https://github.com/user-attachments/assets/a67658f8-185b-4695-bc56-11222d731b44" />
+<img width="505" height="388" alt="image" src="https://github.com/user-attachments/assets/c1635bdd-0fe4-4744-839c-9813cb06fd7c" />
+
 
 ---
 
@@ -491,13 +492,15 @@ Estos métodos permiten intentar la conversión sin detener la ejecución del pr
 
 ---
 
-<img width="1232" height="812" alt="image" src="https://github.com/user-attachments/assets/1637fe7b-d996-46e6-a23f-bc8c32aab4d3" />
+<img width="498" height="401" alt="image" src="https://github.com/user-attachments/assets/5af7238e-7a8b-450f-a66e-e12c620bbcf8" />
+
 
 ---
 
 # Resultado - Validación de Datos Numéricos
 
-<img width="1274" height="832" alt="image" src="https://github.com/user-attachments/assets/64aac839-bc9b-41f4-af24-bce3912b6b5f" />
+<img width="499" height="412" alt="image" src="https://github.com/user-attachments/assets/982abd98-7816-429f-90c2-1a0145135b6f" />
+
 
 ---
 
@@ -576,7 +579,8 @@ Esto permite separar los valores ingresados de la sentencia SQL.
 
 # Resultado - Agregar Producto
 
-<img width="1325" height="801" alt="image" src="https://github.com/user-attachments/assets/9b3a21a4-f4bc-40d4-867a-667d789cad02" />
+<img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/d5b67394-4c65-4c2a-b87f-61375f0a990d" />
+
 
 ---
 
@@ -615,7 +619,8 @@ y parámetros SQL.
 
 # Resultado - Búsqueda
 
-<img width="1000" height="768" alt="image" src="https://github.com/user-attachments/assets/99b2f766-458e-4359-beb2-e9e799723617" />
+<img width="501" height="419" alt="image" src="https://github.com/user-attachments/assets/06d1e74a-bfc6-4401-9a2d-8446d525d8fd" />
+
 
 ---
 
@@ -653,7 +658,8 @@ Este valor posteriormente permite modificar o eliminar el registro correcto.
 
 # Resultado - Selección de Producto
 
-<img width="989" height="760" alt="image" src="https://github.com/user-attachments/assets/9fd909ae-f2ef-4bad-8920-fdeb33ef9449" />
+<img width="503" height="398" alt="image" src="https://github.com/user-attachments/assets/7d5ee16a-adc4-495d-9536-060b8eef2997" />
+
 
 ---
 
@@ -690,11 +696,12 @@ permite modificar únicamente el registro seleccionado.
 
 # Resultado - Modificar Producto
 
-<img width="1000" height="778" alt="image" src="https://github.com/user-attachments/assets/f16eb949-8d06-4227-a539-fa0fd5fcae4a" />
+<img width="503" height="392" alt="image" src="https://github.com/user-attachments/assets/f54a0500-3e44-43ba-b497-21b9bd8b60f7" />
 
-<img width="1241" height="764" alt="image" src="https://github.com/user-attachments/assets/da6b6f90-1452-474c-9a36-4547231f7752" />
+<img width="501" height="400" alt="image" src="https://github.com/user-attachments/assets/52184483-9b43-403d-b936-2c47f44308c0" />
 
-<img width="998" height="779" alt="image" src="https://github.com/user-attachments/assets/6b90094b-d6d9-44ea-957a-027b4ba7757d" />
+<img width="502" height="392" alt="image" src="https://github.com/user-attachments/assets/64e3cc39-5d2d-4f57-8075-81dadc4b0b94" />
+
 
 ---
 
@@ -723,13 +730,15 @@ De esta forma solamente se elimina el registro seleccionado.
 
 # Resultado - Confirmación de Eliminación
 
-<img width="1242" height="774" alt="image" src="https://github.com/user-attachments/assets/d806bd5a-2684-4c25-be5f-4b10a716dcbc" />
+<img width="501" height="394" alt="image" src="https://github.com/user-attachments/assets/f1d23cb8-7122-440b-a2e5-612109c75033" />
+
 
 ---
 
 # Resultado - Producto Eliminado
 
-<img width="1588" height="991" alt="image" src="https://github.com/user-attachments/assets/7a94fc0e-3505-48c4-99c4-1bfa7f054b0b" />
+<img width="498" height="392" alt="image" src="https://github.com/user-attachments/assets/295d0e4e-8101-42c4-a253-a1f45a66dc01" />
+
 
 
 ---
@@ -796,9 +805,10 @@ Application.Exit();
 
 # Resultado - Salir
 
-<img width="1607" height="1009" alt="image" src="https://github.com/user-attachments/assets/47686316-753c-4238-a527-aa36249277d1" />
+<img width="500" height="392" alt="image" src="https://github.com/user-attachments/assets/51dbf355-b964-42ca-b7da-1f6cb2564e6b" />
 
-<img width="1759" height="1003" alt="image" src="https://github.com/user-attachments/assets/4834dd9d-b8ef-4c37-a99c-e2861334c9f0" />
+<img width="500" height="394" alt="image" src="https://github.com/user-attachments/assets/485d7306-f55b-4eaa-bebf-1ba4e23187b1" />
+
 
 ---
 
