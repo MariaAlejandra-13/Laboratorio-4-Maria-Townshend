@@ -71,26 +71,6 @@ Para desarrollar y ejecutar este laboratorio se requiere contar con el siguiente
 
 ---
 
-# Contenido del Repositorio
-
-Este repositorio contiene la aplicación desarrollada durante el Laboratorio #4 de Herramientas de Programación Aplicada III.
-
-La estructura principal del proyecto es:
-
-```text
-Laboratorio4
-│
-├── Form1.cs
-├── Form1.Designer.cs
-├── Form1.resx
-├── Conexion.cs
-├── Producto.cs
-├── Program.cs
-└── README.md
-```
-
----
-
 # Descripción de los Archivos Principales
 
 ## Form1.cs
@@ -238,7 +218,8 @@ Salir
 
 A continuación se muestra la interfaz principal desarrollada para la administración de productos.
 
-<img width="996" height="778" alt="image" src="https://github.com/user-attachments/assets/ea2285e9-2ada-407f-a924-89d53b18ae54" />
+<img width="506" height="404" alt="image" src="https://github.com/user-attachments/assets/84f41ea5-8dd5-4bd0-b344-6b3390077151" />
+
 
 
 ---
