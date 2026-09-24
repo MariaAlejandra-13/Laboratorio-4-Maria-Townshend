@@ -338,7 +338,8 @@ dgvProductos.Rows.Add(
 
 A continuación se muestran dos productos cargados desde SQL Server en el `DataGridView`.
 
-<img width="1021" height="787" alt="image" src="https://github.com/user-attachments/assets/8997f17b-9d77-47c6-a056-2b74ff01aa39" />
+<img width="507" height="427" alt="image" src="https://github.com/user-attachments/assets/b9817c0f-75ec-44e7-b597-966ca9693b95" />
+
 
 
 ---
